@@ -1,4 +1,5 @@
 https://www.kaggle.com/c/text-relevance-competition-ir-1-ts-spring-2020/overview
+
 Ник в соревновании: Rodion Sulzhenko
 
 Инструкция по запуску:
