@@ -1,3 +1,6 @@
+https://www.kaggle.com/c/text-relevance-competition-ir-1-ts-spring-2020/overview
+Ник в соревновании: Rodion Sulzhenko
+
 Инструкция по запуску:
 1) Распаковать в данную папку архив text-relevance-competition-ir-1-ts-spring-2020
 2) Запустить все ячейки ноутбука Parsing
